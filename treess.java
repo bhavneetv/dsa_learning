@@ -33,7 +33,7 @@ public class treess {
             }
             
             preOrder(i.left);
-            System.out.print(i.data + " ");
+            System.out.print(i.data + "  ");
             preOrder(i.right);
         }
     }
