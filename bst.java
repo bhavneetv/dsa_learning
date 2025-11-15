@@ -17,7 +17,7 @@ public class bst {
 
         if (root == null) {
             root = new Node(data);
-            return r oot;
+            return root;
 
         }
 
